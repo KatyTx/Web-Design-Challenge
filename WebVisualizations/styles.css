@@ -1,0 +1,26 @@
+#weatherleft {
+    height: 700px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    background: gray;
+}
+
+#weatherright {
+    height: 500px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    background: gray;
+}
+
+#images {
+    outline: 1px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    background: gray;
+}
