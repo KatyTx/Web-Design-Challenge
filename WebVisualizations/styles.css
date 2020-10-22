@@ -63,8 +63,13 @@ a.navbar-brand{
 }
 .nav-item.dropdown.show {
     background-color: #ddd;
+    
 }
 .dropdown-menu {
     margin: 0;
 }
 
+#navbar2{
+    left: 100px !important;
+    
+}
